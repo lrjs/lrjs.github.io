@@ -89,7 +89,12 @@ both hands should remain above your head after release.
 
 Even though player extends arm to the fullest, try not to explosively lock the elbow. And even
 though player flicks quickly and to the fullest, try not to snap the wrist. Perform these actions
-in as smooth a motion as possible. Motions that lock or snap joints diminish accuracy.
+in as smooth a motion as possible. Motions that lock or snap joints diminish accuracy. Also
+try not to explosively extend your arm, this will cause your arm to immediately recoil after
+you release the ball. This might diminish accuracy, or at least make the amount of force applied
+less consistent. And don't over extend the shooting shoulder. Players might do this as they
+are releasing the ball in search of more power. But this motion contorts the whole body as
+well as causes the off hand to drop quickly.
 
 As the release occurs, the body should be turned left to almost point towards the sideline.
 However the head remain straight and facing up to the basket.
